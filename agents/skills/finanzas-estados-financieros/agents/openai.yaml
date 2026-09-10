@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finanzas Sommos — Estados Financieros"
+  short_description: "Mantiene y audita Real P&L, Balance Sheet y Cash Flow como modelo integrado de tres estados."
+  brand_color: "#4D0B95"
+  default_prompt: "Usa $finanzas-estados-financieros para revisar o actualizar Real P&L, Balance Sheet y Cash Flow, validar sus fuentes, fórmulas y signos, y comprobar que los tres estados cierren entre sí sin usar plugs artificiales."
+
+policy:
+  allow_implicit_invocation: true
