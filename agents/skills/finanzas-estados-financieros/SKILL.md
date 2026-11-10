@@ -31,15 +31,15 @@ Su objetivo es asegurar que los tres estados:
 
 Google Sheet:
 
-`Finanzas Sommos — Workflow y Control`
+`Finanzas Sommos — Workflow y Control V2.0`
 
 Spreadsheet ID:
 
-`1RXy19WZMPQePflFaFeIIHnh09BpJbwOnk6Wumw8bW4E`
+`1z0ON-50Ps3V9AYACSZxVBe6sNuAuYxE4qwrV2N5tQZY`
 
 URL:
 
-`https://docs.google.com/spreadsheets/d/1RXy19WZMPQePflFaFeIIHnh09BpJbwOnk6Wumw8bW4E/edit`
+`https://docs.google.com/spreadsheets/d/1z0ON-50Ps3V9AYACSZxVBe6sNuAuYxE4qwrV2N5tQZY/edit`
 
 ---
 
@@ -1132,7 +1132,7 @@ Usar para:
 
 ## `finanzas-presupuesto-vs`
 
-Cuando exista, usar para:
+Usar para:
 
 - Budget vs P&L;
 - análisis de variaciones.
@@ -1148,7 +1148,7 @@ Usar para:
 
 ## `finanzas-cierre-mensual`
 
-Cuando exista, usar para:
+Usar para:
 
 - validar los tres estados como parte del cierre mensual.
 
